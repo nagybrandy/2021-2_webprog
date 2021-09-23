@@ -1,4 +1,5 @@
 # Delegálás
+credits to: https://github.com/gvikthor/
 ## Hogyan delegáljunk?
 1. keressük ki Thor githubjáról a delegal függvényt
 2. illesszük be a kódunkba, és ne törődjünk azzal, mi van beleírva
