@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .fekete {
+            filter: grayscale(100%);
+        }
+        .szines {
+            filter:grayscale(0%)
+        }
+        .kesz:before {
+            content: "✔ "
+        }
+        .egeszsor {
+            background-color: rgb(251, 164, 164)
+        }
+        table,td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 15px;
+        }
+
+        .jelolt {
+            background-color: rgba(103, 103, 246, 0.808);
+        }
+    </style>
+    <ul class="lista">
+        <li>első</li>
+        <li>második</li>
+        <li>harmadik</li>
+    </ul>
+
+    <table id="myTable">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>12</td>
+            <td>13</td>
+            <td>14</td>
+            <td>15</td>
+        </tr>
+    </table>
+    <br>
+    <img src="https://sm.ign.com/t/ign_hu/screenshot/default/gallery3_eyws.1280.jpg" class="fekete" id="kep">
+    <script src="script.js"></script>
+</body>
+</html>
