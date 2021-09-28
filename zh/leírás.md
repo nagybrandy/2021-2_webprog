@@ -4,7 +4,7 @@
 1. Első lépésként töltsd le github-ról a kiindulófájlokat: 
 2. Csomagold ki, majd az alábbi kódrészletet illeszd be a js fájlod elejére. A feladat beküldésével az alább leírtakat megértettnek és elfogadottnak tekintjük annak a nevében, aki a megoldást beküldte.
     ````
-    ```
+    /*
     <Hallgató neve>
     <Neptun kódja>
     Webprogramozás - JavaScript csoport ZH
@@ -18,7 +18,7 @@
     amíg egy hallgató egy másik hallgató munkáját - vagy legalábbis annak 
     jelentős részét - saját munkájaként mutatja be, az fegyelmi vétségnek számít. 
     A fegyelmi vétség legsúlyosabb következménye a hallgató elbocsátása az egyetemről.
-    ```
+    /*
     ````
 ## Feladat megoldása
 A weboldalunk 3 zenekar zeneszámait tartalmazza. Az oldal célja az, hogy a a felhasználó meg tudja adni a nevét, és pontozni tudja egy adott együttes számait.
