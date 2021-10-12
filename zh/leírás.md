@@ -65,8 +65,8 @@ function delegal(szulo, gyerek, mikor, mit){
 
 |Feladat|Pont
 |---|---|
-|A feladat helyes megoldása|2 pont|
-|A feladat helyes megoldása tömbfüggvénnyel|1 pont|
+|A feladat helyes megoldása|1 pont|
+|A feladat helyes megoldása tömbfüggvénnyel|2 pont|
 1. A szöveg alatt jelenjen meg annyi csillag, amennyi az adott pontszámok átlaga volt, egész számra lefelé kerekítve. A csillagok szélességét állítsd át 40px-re.  (A lefelé "kerekítéshez" használj parseInt()-et)
 
 |Feladat|Pont
