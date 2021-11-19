@@ -26,7 +26,7 @@
             $zenek_tomb = json_decode($json_szoveg);
             array_push($zenek_tomb, $ujadat);
         } else {
-            $zenek_tomb = $ujadat;
+            array_push($zenek_tomb, $ujadat);
         }
         $uj_tomb = json_encode($zenek_tomb, JSON_PRETTY_PRINT);
         file_put_contents("musics.json", $uj_tomb);
