@@ -79,3 +79,5 @@ Mindenki tudja, milyen nagy LEGO rajongók vagyunk, így életünkben már sok k
 - d. (1 pont) A listázás során vedd figyelembe az `archived` attribútumot, ahol ez igaz, azok ne kerüljenek megjelenítésre!
 - e. (1 pont) A listaelemeknél ne generáljunk képet, ahol a kép URL nincs megadva (`image_url`)!
 - f. (1 pont) Az "archivál" linkre kattintva és az `id`-t átadva állítsuk be az adott készlet `archived` tulajdonságát igazra, majd irányítsuk át a böngészőt az `index.php` oldalra!
+
+hali
