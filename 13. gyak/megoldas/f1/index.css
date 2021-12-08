@@ -1,0 +1,20 @@
+@import url('https://cdn.jsdelivr.net/gh/elte-fi/www-assets@19.10.16/styles/mdss.min.css');
+
+* {
+  box-sizing: border-box;
+}
+table {
+  border-collapse: collapse;
+}
+
+table tr {
+  background: url('piece.png') !important;
+}
+
+table td {
+  background-color: white;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  opacity: 0.6;
+}
