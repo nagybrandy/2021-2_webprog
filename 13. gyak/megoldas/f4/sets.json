@@ -1,0 +1,31 @@
+{
+    "60a3c98f19b16": {
+        "category": "Technic",
+        "set_number": "42083",
+        "name": "Bugatti Chiron",
+        "image_url": "https:\/\/images.brickset.com\/sets\/large\/42083-1.jpg?201806020310",
+        "building_instruction_url": "https:\/\/www.lego.com\/cdn\/product-assets\/product.bi.additional.info.pdf\/42083_A_Digital%20Booklet%20-%20HU.pdf",
+        "condition": "\u00daj",
+        "id": "60a3c98f19b16",
+        "archived": false
+    },
+    "60a3c9b6f3fe5": {
+        "category": "Technic",
+        "set_number": "8070",
+        "name": "Super Car",
+        "image_url": "",
+        "building_instruction_url": "",
+        "condition": "J\u00f3 \u00e1llapot",
+        "id": "60a3c9b6f3fe5",
+        "archived": true
+    },
+    "60a7847a480d2": {
+        "category": "Duplo",
+        "set_number": "12345",
+        "name": "Duplo vonat",
+        "image_url": "",
+        "condition": "Hi\u00e1nyos",
+        "archived": false,
+        "id": "60a7847a480d2"
+    }
+}
