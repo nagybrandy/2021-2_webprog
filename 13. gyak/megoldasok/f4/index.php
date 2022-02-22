@@ -17,7 +17,7 @@ if ($_POST) {
     'condition'  => $condition,
     'archived'  => false,
   ]);
-  header('Location: index.php');  
+  header('Location: index.php');
 }
 
 $sets = $legoStorage->findAll([
